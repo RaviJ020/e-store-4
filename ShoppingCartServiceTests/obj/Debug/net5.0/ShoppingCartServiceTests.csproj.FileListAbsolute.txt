@@ -1,0 +1,6 @@
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\obj\Debug\net5.0\ShoppingCartServiceTests.csproj.AssemblyReference.cache
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\obj\Debug\net5.0\ShoppingCartServiceTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\obj\Debug\net5.0\ShoppingCartServiceTests.AssemblyInfoInputs.cache
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\obj\Debug\net5.0\ShoppingCartServiceTests.AssemblyInfo.cs
+C:\Git\unit-testing\e-store-4\ShoppingCartServiceTests\obj\Debug\net5.0\ShoppingCartServiceTests.csproj.CoreCompileInputs.cache
